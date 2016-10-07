@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/Markypc3/worddigest#readme",
   "dependencies": {
-    "srt": "0.0.3"
+    "fast-csv": "^2.3.0",
+    "srt": "0.0.3",
+    "xlsx": "^0.8.0"
   }
 }
