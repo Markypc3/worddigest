@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Markypc3/worddigest/issues"
   },
-  "homepage": "https://github.com/Markypc3/worddigest#readme"
+  "homepage": "https://github.com/Markypc3/worddigest#readme",
+  "dependencies": {
+    "srt": "0.0.3"
+  }
 }
